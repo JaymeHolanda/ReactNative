@@ -40,4 +40,4 @@ const ComponenteNome = ({ nome }) => {
 
 ### Execução da Aula 01 
 
-![Aula 01](/Prints/Aula%2001.jpg)
+![Aula 01](/Prints/Aula%2001.jpg){ width=60% }
