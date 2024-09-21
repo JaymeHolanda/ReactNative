@@ -4,7 +4,7 @@
 
 Os componentes ficam dentro da pasta SRC. Então foi criado esta pasta e em seguida a pasta Components. 
 
-## Aula 1 
+## Aula 1 - Atividade 1
 
 - **Objetivo:** Criar um componente funcional que aceita um nome como prop e exibe uma mensagem de saudação.
 
