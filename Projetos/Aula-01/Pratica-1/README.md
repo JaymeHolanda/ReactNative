@@ -40,5 +40,6 @@ const ComponenteNome = ({ nome }) => {
 
 ### Execução da Aula 01 
 
-![Aula 01](/Prints/Aula%2001.jpg){ width=10% }
+<img src="/Prints/Aula%2001.jpg" alt="Aula 01" style="width: 50%;">
+
 
