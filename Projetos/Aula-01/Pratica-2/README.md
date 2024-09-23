@@ -6,7 +6,7 @@ Os componentes ficam dentro da pasta SRC. Então foi criado esta pasta e em segu
 
 ## Aula 1 - Atividade 2 
 
-- **Objetivo:** Criar um componente que inclui um **TextInput** para entrada de texto e um **Text** para exibir o texto digitado. Use useState para armazenar e atualizar o valor do texto
+- **Objetivo:** Criar um componente que exibe um numer, inicialmente 0, e dois botões de incrementar e Descrementar o valor usando **useState** .
 
 ### Solução: 
 
