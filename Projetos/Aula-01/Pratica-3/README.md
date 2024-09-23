@@ -4,7 +4,7 @@
 
 Os componentes ficam dentro da pasta SRC. Então foi criado esta pasta e em seguida a pasta Components. 
 
-## Aula 1 - Atividade 2 
+## Aula 1 - Atividade 3
 
 - **Objetivo:** Criar um componente que inclui um **TextInput** para entrada de texto e um **Text** para exibir o texto digitado. Use useState para armazenar e atualizar o valor do texto
 
@@ -79,7 +79,7 @@ export default function App() {
 
 ~~~
 
-### Execução da Aula 02 
+### Execução da Aula 01 - Atividade 3
 
 <img src="/Prints/aula 03.2.jpg" alt="Aula 03" style="width: 50%;">
 <img src="/Prints/aula 03.1.jpg" alt="Aula 03" style="width: 50%;">
