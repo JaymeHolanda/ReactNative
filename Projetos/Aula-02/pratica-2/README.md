@@ -55,7 +55,7 @@ export default function App() {
 }
 ~~~
 
-### Execução da Aula 02 - Atividade 1 
+### Execução da Aula 02 - Atividade 2 
 
 <img src="/Prints/aula2-atv2.jpg" alt="Aula 01" style="width: 50%;">
 
