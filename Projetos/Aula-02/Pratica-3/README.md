@@ -68,6 +68,6 @@ export default function App() {
 
 ### Execução da Aula 02 - Atividade 3
 
-<img src="/Prints/aula2-atv3.jpg" alt="Aula 01" style="width: 50%;">
+<img src="/Prints/Aula2-atv3.jpg" alt="Aula 01" style="width: 50%;">
 
 
